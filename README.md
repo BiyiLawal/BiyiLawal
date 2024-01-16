@@ -7,7 +7,7 @@ I'm a Software Developer, here's a **quick summary about me**
 - 👋 Hi, I’m an Engineering student studying Electrical and Electronics Engineering.
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 💡 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
-- 🌱 I’m currently learning JavaScript and Reactjs
+- 🌱 I’m currently learning Nodejs
 - 💼 Job interests: Software Engineer (Intern or Junior level).
 - 📫 You can view [my resume](https://docs.google.com/document/d/1BrGXJQuhiS4rYt2Mrt98NwRl5dP5xQIv6p0jiAnjb3s/edit?usp=sharing), [personal website](biyilawal.netlify.app) and send me an email mailtobiyilawal90@gmail.com
 
