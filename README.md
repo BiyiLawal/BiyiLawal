@@ -4,7 +4,7 @@
 
 I'm a Software Developer, here's a **quick summary about me**
 
-- 👋 Hi, I’m an Engineering student studying Electrical and Electronics Engineering.
+- 👋 Hi, I’m an Electrical and Electronics Engineering Student.
 - 💡 Fun fact: I'm a graduate at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 💡 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
 - 🌱 I’m currently building with Nodejs
