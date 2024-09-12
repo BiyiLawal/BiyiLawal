@@ -9,7 +9,7 @@ I'm a Software Developer, here's a **quick summary about me**
 - 💡 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
 - 🌱 I’m currently building with Nodejs
 - 💼 Job interests: Software Engineer (Intern or Junior level).
-- 📫 You can view [my resume](https://docs.google.com/document/d/1BrGXJQuhiS4rYt2Mrt98NwRl5dP5xQIv6p0jiAnjb3s/edit?usp=sharing), [personal website](biyilawal.netlify.app) and send me an email mailtobiyilawal90@gmail.com
+- 📫 You can view [my resume](https://docs.google.com/document/d/1BrGXJQuhiS4rYt2Mrt98NwRl5dP5xQIv6p0jiAnjb3s/edit?usp=sharing), [personal website](biyilawal.vercel.app) and send me an email mailtobiyilawal90@gmail.com
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=biyilawal&show_icons=true&include_all_commits=true&hide_border=true" alt="Biyi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyilawal&langs_count=8&layout=compact&hide_border=true" alt="Biyi's GitHub stats" /> |
