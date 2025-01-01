@@ -7,7 +7,7 @@ I'm a Software Developer, here's a **quick summary about me**
 - 👋 Hi, I’m an Electrical and Electronics Engineering Student.
 - 💡 Fun fact: I'm a graduate at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 💡 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
-- 🌱 I’m currently building with Nodejs.
+- 🌱 I’m currently building with Nodejs and Java.
 - 💼 Job interests: Software Engineer (Intern or Junior level).
 - ✍️ I have a [blog](https://medium.com/@biyilawal) where I write about tech, programming and other interests.
 - 📫 You can view my website here on my github profile, [my resume](https://drive.google.com/file/d/1Emw6YSVwTDeUkjS-R7xbiVK61ABPtm_C/view?usp=drivesdk) and send me an email mailtobiyilawal90@gmail.com
