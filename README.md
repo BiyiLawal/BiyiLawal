@@ -12,9 +12,7 @@ I'm a Software Developer, here's a **quick summary about me**
 - ✍️ I have a [blog](https://medium.com/@biyilawal) where I write about tech, programming and other interests.
 - 📫 You can view my website here on my github profile, [my resume](https://drive.google.com/file/d/1Emw6YSVwTDeUkjS-R7xbiVK61ABPtm_C/view?usp=drivesdk) and send me an email mailtobiyilawal90@gmail.com
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=biyilawal&show_icons=true&include_all_commits=true&hide_border=true" alt="Biyi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyilawal&langs_count=8&layout=compact&hide_border=true" alt="Biyi's GitHub stats" /> |
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biyilawal&langs_count=8&layout=compact&hide_border=true" alt="Biyi's GitHub stats" /> |
 
 <!---
 BiyiLawal/BiyiLawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
